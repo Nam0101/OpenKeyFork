@@ -27,7 +27,7 @@ kotlin {
 }
 
 application {
-    mainClass.set("com.openkey.engine.MainKt")
+    mainClass.set("com.openkey.engine.ExampleKt")
 }
 
 tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile> {
